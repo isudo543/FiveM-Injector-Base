@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Log.obj",
+            "outputs": [
+                "x64\\Release\\Log.h_AB37B72654A98D.ifc.dt.module.json",
+                "x64\\Release\\Log.h_AB37B72654A98D.ifc.dt.d.json",
+                "x64\\Release\\Log.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\Users\\julan\\source\\repos\\Uwp.gg\\Uwp dll\\UwpUser123\\Log\\Log.h",
+                    "source-path": "e:\\users\\julan\\source\\repos\\uwp.gg\\uwp dll\\uwpuser123\\log\\log.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

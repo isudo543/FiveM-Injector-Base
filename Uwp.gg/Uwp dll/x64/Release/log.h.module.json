@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Log.h.obj",
+            "outputs": [
+                "E:\\Users\\julan\\source\\repos\\Uwp.gg\\Uwp dll\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "E:\\Users\\julan\\source\\repos\\Uwp.gg\\Uwp dll\\x64\\Release\\Log.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "UwpUser123\\Log\\Log.h",
+                    "source-path": "e:\\users\\julan\\source\\repos\\uwp.gg\\uwp dll\\uwpuser123\\log\\log.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
